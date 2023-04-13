@@ -24,6 +24,7 @@ h1 {
 img {
     margin: 0 10px;
     cursor: pointer;
+    width: 50px;
 }
 
 #computer-choice {
