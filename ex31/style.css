@@ -1,0 +1,18 @@
+body {
+    text-align: center;
+    font-family: Arial, sans-serif;
+  }
+  
+  h1 {
+    color: blue;
+  }
+  
+  #counter {
+    font-size: 48px;
+    margin-top: 30px;
+  }
+  
+  button {
+    font-size: 24px;
+    margin-top: 10px;
+  }
