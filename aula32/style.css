@@ -1,0 +1,82 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Estilo do container das informações do país */
+#countryInfoContainer {
+    margin-top: 20px;
+    padding: 20px;
+    background-color: #f8f8f8;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+}
+  
+  /* Estilo para a lista de informações do país */
+  #countryInfoContainer ul {
+    list-style-type: none;
+    padding: 0;
+}
+  
+  /* Estilo para os itens da lista de informações do país */
+  #countryInfoContainer li {
+    margin-bottom: 10px;
+}
+  
+  /* Estilo para o título das informações do país */
+  #countryInfoContainer h2 {
+    margin-top: 0;
+    font-size: 20px;
+    font-weight: bold;
+    color: #333;
+}
+  
+  /* Estilo para a mensagem de erro */
+  .error-message {
+    color: #ff0000;
+    margin-top: 10px;
+}
+
+  /* Estilo do título principal */
+h1 {
+    font-size: 36px;
+    font-weight: bold;
+    color: #333;
+    text-align: center;
+    margin-top: 40px;
+}
+  
+  /* Estilo do input de pesquisa */
+  #countryInput {
+    display: block;
+    width: 100%;
+    max-width: 400px;
+    margin: 20px auto;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    font-size: 16px;
+    color: #333;
+}
+  
+  /* Estilo do botão de busca */
+  #searchButton {
+    display: block;
+    width: 100%;
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 10px;
+    background-color: #007bff;
+    color: #fff;
+    text-align: center;
+    border: none;
+    border-radius: 4px;
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+}
+  
+  /* Estilo do botão de busca ao passar o mouse */
+  #searchButton:hover {
+    background-color: #0b7df7;
+}
